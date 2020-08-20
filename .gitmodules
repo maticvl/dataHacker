@@ -1,0 +1,3 @@
+[submodule "yolov3"]
+	path = yolov3
+	url = https://github.com/roboflow-ai/yolov3.git
