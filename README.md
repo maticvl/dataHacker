@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="http://datahacker.rs/">
-    <img src="datahacker.png" alt="Logo" width="80" height="80">
+    <img src="datahacker.png" alt="Logo">
   </a>
 
   <h3 align="center">DataHacker</h3>
