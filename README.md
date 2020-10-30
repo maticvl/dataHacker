@@ -17,7 +17,7 @@
 
 <!-- CONTACT -->
 ## Contact
-datahacker.rs - datahacker.rs@gmail.com
-Vladimir Matic - [LinkedIn](https://www.linkedin.com/in/vladimirmatic/) [Twitter](https://twitter.com/maticvl)
-Strahinja Stefanovic - [LinkedIn](https://www.linkedin.com/in/strahinja-stefanovic-047244175/)[Twitter](https://twitter.com/CaLeSS0)
-Strahinja Zinvkovic - [LinkedIn](https://www.linkedin.com/in/strahinja-zivkovic-1a1239167/)[Twitter](https://twitter.com/StrahinjaZivko7)
+datahacker.rs - datahacker.rs@gmail.com <br />
+Vladimir Matic - [LinkedIn](https://www.linkedin.com/in/vladimirmatic/) [Twitter](https://twitter.com/maticvl)<br />
+Strahinja Stefanovic - [LinkedIn](https://www.linkedin.com/in/strahinja-stefanovic-047244175/)[Twitter](https://twitter.com/CaLeSS0)<br />
+Strahinja Zinvkovic - [LinkedIn](https://www.linkedin.com/in/strahinja-zivkovic-1a1239167/)[Twitter](https://twitter.com/StrahinjaZivko7)<br />
